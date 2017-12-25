@@ -1,6 +1,6 @@
-/vx-lib.js
-/pushToFile(filePath, filename, fileExtension, fileContent, reponse);
-/pullFromFile(filePath, filename, fileExtension, reponse);
+# vx-lib.js
+# pushToFile(filePath, filename, fileExtension, fileContent, reponse);
+## pullFromFile(filePath, filename, fileExtension, reponse);
 PUSHES and PULLS file using a file-server.php
 Through the use XMLHttpRequest functipn.
 Send file detail throught the follow parameters
