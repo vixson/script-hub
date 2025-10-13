@@ -1,0 +1,16 @@
+{
+  "name": "@vixcom/script",
+  "version": "1.0.0",
+  "keywords": [
+    "lodash",
+    "wildcard",
+    "library extension"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "publish": "npm run build && npm publish"
+  },
+  "devDependencies": {
+    "lodash": "^4.17.21"
+  }
+}

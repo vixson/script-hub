@@ -1,0 +1,2 @@
+opencage==3.0.4
+phonenumbers==9.0.0
